@@ -1,0 +1,7 @@
+C:\Users\Dani.DESKTOP-J0LINH7\Desktop\ELTE PROG.INF\2.félév\Objektum_orientált_Prog\beadandók\3.beadandó\3.Beadando\3.Beadando\bin\Debug\3.Beadando.exe.config
+C:\Users\Dani.DESKTOP-J0LINH7\Desktop\ELTE PROG.INF\2.félév\Objektum_orientált_Prog\beadandók\3.beadandó\3.Beadando\3.Beadando\bin\Debug\3.Beadando.exe
+C:\Users\Dani.DESKTOP-J0LINH7\Desktop\ELTE PROG.INF\2.félév\Objektum_orientált_Prog\beadandók\3.beadandó\3.Beadando\3.Beadando\bin\Debug\3.Beadando.pdb
+C:\Users\Dani.DESKTOP-J0LINH7\Desktop\ELTE PROG.INF\2.félév\Objektum_orientált_Prog\beadandók\3.beadandó\3.Beadando\3.Beadando\obj\Debug\3.Beadando.csproj.AssemblyReference.cache
+C:\Users\Dani.DESKTOP-J0LINH7\Desktop\ELTE PROG.INF\2.félév\Objektum_orientált_Prog\beadandók\3.beadandó\3.Beadando\3.Beadando\obj\Debug\3.Beadando.csproj.CoreCompileInputs.cache
+C:\Users\Dani.DESKTOP-J0LINH7\Desktop\ELTE PROG.INF\2.félév\Objektum_orientált_Prog\beadandók\3.beadandó\3.Beadando\3.Beadando\obj\Debug\3.Beadando.exe
+C:\Users\Dani.DESKTOP-J0LINH7\Desktop\ELTE PROG.INF\2.félév\Objektum_orientált_Prog\beadandók\3.beadandó\3.Beadando\3.Beadando\obj\Debug\3.Beadando.pdb

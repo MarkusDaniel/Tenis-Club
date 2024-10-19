@@ -1,0 +1,38 @@
+Pályák:
+1,Fu,fedett
+2,Salak,nyitott
+3,Muanyag,fedett
+4,Fu,nyitott
+5,Salak,fedett
+Tagok:
+John Doe
+Jane Smith
+Michael Johnson
+Emily Brown
+David Wilson
+Sarah Taylor
+Robert Martinez
+Laura Garcia
+Kevin Lee
+Amanda Rodriguez
+Daniel Hernandez
+Ashley Martinez
+Matthew Lopez
+Jessica Perez
+Christopher Gonzalez
+Foglalások:
+John Doe,1,2024-04-30,14
+Jane Smith,2,2024-04-30,16
+Michael Johnson,3,2024-05-01,10
+Emily Brown,4,2024-05-01,15
+David Wilson,5,2024-05-02,11
+Sarah Taylor,1,2024-05-02,17
+Robert Martinez,2,2024-05-03,13
+Laura Garcia,3,2024-05-03,12
+Kevin Lee,4,2024-05-04,18
+Amanda Rodriguez,5,2024-05-04,16
+Daniel Hernandez,1,2024-05-05,9
+Ashley Martinez,2,2024-05-05,14
+Matthew Lopez,3,2024-05-06,10
+Jessica Perez,4,2024-05-06,16
+Christopher Gonzalez,5,2024-05-07,15

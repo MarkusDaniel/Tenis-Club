@@ -1,0 +1,38 @@
+Pályák:
+1,Fu,fedett
+2,Salak,nyitott
+3,Muanyag,fedett
+4,Fu,nyitott
+5,Salak,fedett
+Tagok:
+Lars Andersson
+Eva Carlsson
+Johan Bengtsson
+Maria Dahlström
+Anders Eriksson
+Anna Gustafsson
+Per Holmberg
+Lisa Johansson
+Mikael Karlsson
+Sofia Lindgren
+Martin Nilsson
+Hanna Persson
+Olof Svensson
+Emelie Åberg
+Nils Östberg
+Foglalások:
+Lars Andersson,1,2024-04-30,14
+Eva Carlsson,2,2024-04-30,16
+Johan Bengtsson,3,2024-05-01,10
+Maria Dahlström,4,2024-05-01,15
+Anders Eriksson,5,2024-05-02,11
+Anna Gustafsson,1,2024-05-02,17
+Per Holmberg,2,2024-05-03,13
+Lisa Johansson,3,2024-05-03,12
+Mikael Karlsson,4,2024-05-04,18
+Sofia Lindgren,5,2024-05-04,16
+Martin Nilsson,1,2024-05-05,9
+Hanna Persson,2,2024-05-05,14
+Olof Svensson,3,2024-05-06,10
+Emelie Åberg,4,2024-05-06,16
+Nils Östberg,5,2024-05-07,15

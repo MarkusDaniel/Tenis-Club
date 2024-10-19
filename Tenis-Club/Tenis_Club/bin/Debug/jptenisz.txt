@@ -1,0 +1,38 @@
+Pályák:
+1,Fu,fedett
+2,Salak,nyitott
+3,Muanyag,fedett
+4,Fu,nyitott
+5,Salak,fedett
+Tagok:
+Sato Yuki
+Tanaka Hiroshi
+Suzuki Akiko
+Watanabe Aoi
+Ito Takashi
+Nakamura Misaki
+Kobayashi Satoshi
+Yamamoto Yui
+Kato Haruto
+Yoshida Sakura
+Yamada Daiki
+Sasaki Hina
+Yamaguchi Riku
+Saito Mei
+Fujita Ren
+Foglalások:
+Sato Yuki,1,2024-04-30,14
+Tanaka Hiroshi,2,2024-04-30,16
+Suzuki Akiko,3,2024-05-01,10
+Watanabe Aoi,4,2024-05-01,15
+Ito Takashi,5,2024-05-02,11
+Nakamura Misaki,1,2024-05-02,17
+Kobayashi Satoshi,2,2024-05-03,13
+Yamamoto Yui,3,2024-05-03,12
+Kato Haruto,4,2024-05-04,18
+Yoshida Sakura,5,2024-05-04,16
+Yamada Daiki,1,2024-05-05,9
+Sasaki Hina,2,2024-05-05,14
+Yamaguchi Riku,3,2024-05-06,10
+Saito Mei,4,2024-05-06,16
+Fujita Ren,5,2024-05-07,15

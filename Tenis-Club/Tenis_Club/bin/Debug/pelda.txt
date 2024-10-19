@@ -1,0 +1,11 @@
+Pályák:
+1,Fu,fedett
+2,Salak,nyitott
+3,Muanyag,fedett
+Tagok:
+John Doe
+Jane Smith
+Foglalások:
+John Doe,1,2024-04-30,10
+Jane Smith,2,2024-05-01,15
+John Doe,3,2024-05-02,16
